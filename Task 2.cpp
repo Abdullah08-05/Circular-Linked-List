@@ -14,6 +14,7 @@ public:
 class CircularLinkedList {
 public:
 	Node* head;
+//constructor
 	CircularLinkedList() {
 		head = nullptr;
 	}
